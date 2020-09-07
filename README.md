@@ -60,3 +60,13 @@ source/
 - A [Prof. Rita Berardi](mailto:ritaberardi@utfpr.edu.br) pela atenção dedicada no desenvolvimento desta ferramenta.
 - A toda comunidade que se preocupa com o desenvolvimento e transparência dos dados públicos.
 
+## Referências
+
+* ["Microdatasus: pacote para download e pré-processamento de microdados do Departamento de Informática do SUS (DATASUS)"](https://doi.org/10.1590/0102-311x00032419), `urn:doi:10.1590/0102-311x00032419`.
+
+* [Documentação oficial do SUS](http://cnes.datasus.gov.br/pages/downloads/documentacao.jsp), `http://CNES.DataSUS.gov.br`.
+
+
+
+  
+
