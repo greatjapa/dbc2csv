@@ -34,7 +34,7 @@ source/
 Agora execute o comando abaixo passando o caminho completo para o diretório `source`.
 
 ```bash
-$ docker run -it -v <caminho_completo_para_diretorio_source>:/usr/src/app/data dbc2csv make
+$ docker run --privileged -it -v <caminho_completo_para_diretorio_source>:/usr/src/app/data dbc2csv make
 ```
 
 Ao final do processo, o diretório `source` será preenchido com arquivos `dbf` e `csv`:
