@@ -1,1 +1,4 @@
-dbfread
+simpledbf
+pandas
+tables
+SQLAlchemy
