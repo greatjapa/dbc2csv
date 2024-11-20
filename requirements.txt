@@ -1,4 +1,4 @@
-simpledbf
+dbfread
 pandas
 tables
 SQLAlchemy
